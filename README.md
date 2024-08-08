@@ -28,8 +28,8 @@ This is a MERN Stack application designed to efficiently manage tasks. It provid
 * MongoDB
 
 ### To run app locally 
--Go to each individial folder and run yarn or yarn install
--Go back to root folder and run yarn start
+  -Go to each individial folder and run yarn or yarn install
+* -Go back to root folder and run yarn start
 
 ### OR
 **Installation:**
